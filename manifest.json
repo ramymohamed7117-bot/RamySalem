@@ -1,6 +1,7 @@
 {
  "name": "أعمالي اليومية",
  "short_name": "أعمالي",
+ "id": "./",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
@@ -23,7 +24,7 @@
    "purpose": "any"
   },
   {
-   "src": "icon-512.png",
+   "src": "icon-maskable.png",
    "sizes": "512x512",
    "type": "image/png",
    "purpose": "maskable"
